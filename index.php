@@ -1,69 +1,6 @@
-<!--A Design by W3layouts
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
-Design : Kevin Barasa | kevin.barasa001@gmail.com
--->
-<!DOCTYPE HTML>
-<html>
-<head>
-<title>Africa Centre for Gender, Social Research and Impact Assessment | Welcome</title>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
-<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700,500,900' rel='stylesheet' type='text/css'>
-<script src="js/jquery.min.js" type="text/javascript"></script>
-<script src="js/script.js" type="text/javascript"></script>
-<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
-<link href="css/magnific-popup.css" rel="stylesheet" type="text/css">
-<!-- Add fancyBox main JS and CSS files -->
-	<script type="text/javascript" src="js/jquery.fancybox.js"></script>
-	<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
-	<script type="text/javascript" src="js/jquery.fancybox-media.js"></script>	
-</head>
-<body>
-  <div class="header" id="home">
-  	  <div class="header_top">
-	   <div class="wrap">
-		 	     <div class="logo">
-						<a href="index.html"><img src="images/logo.png" alt="" /></a>
-					</div>	
-						<div class="menu">
-						    <ul>
-						    	<li><a href="#home" class="scroll">Home</a></li>
-								<li><a href="#features" class="scroll">Features</a></li>
-								<li><a class="popup-with-zoom-anim" href="#small-dialog">Pricing</a></li>
-								<li><a href="#dashboard" class="scroll">Examples</a></li>
-								<li><a href="#customers" class="scroll">Support</a></li>				    
-								<li class="login" >
-									<div id="loginContainer"><a href="#" id="loginButton"><span>Login</span></a>
-						                <div id="loginBox">                
-						                    <form id="loginForm">
-						                        <fieldset id="body">
-						                            <fieldset>
-						                                <label for="email">Email Address</label>
-						                                <input type="text" name="email" id="email">
-						                            </fieldset>
-						                            <fieldset>
-						                                <label for="password">Password</label>
-						                                <input type="password" name="password" id="password">
-						                            </fieldset>
-						                            <input type="submit" id="login" value="Sign in">
-						                            <label for="checkbox"><input type="checkbox" id="checkbox"> <i>Remember me</i></label>
-						                        </fieldset>
-						                        <span><a href="#">Forgot your password?</a></span>
-						                    </form>
-						                </div>
-						               </div>
-								   </li>
-								<div class="clear"></div>
-							</ul>
-						</div>							
-	    		 <div class="clear"></div>
-	        </div>
-	    </div>
-	 </div>			      	
+<!--Header Partial-->	
+<?php include('partials/header.php');?>
+<!--Body Partial-->	      	
      <div class="main">
 	 	<div class="content">	
 	 		 <div class="content_top">  
@@ -94,22 +31,22 @@ Design : Kevin Barasa | kevin.barasa001@gmail.com
                  		        <div class="features_grids">
 							     <div class="section group">
 									<div class="grid_1_of_4 images_1_of_4">
-										 <img src="images/beautyful-teplates.png" alt="" />
+										 <img src="images/gender.png" alt="" />
 										 <h3>Gender Analysis and Training</h3>
 										 <p>We have a roster of consultants with experience in gender analysis in agriculture, general and specialised gender training</p>
 									</div>
 									<div class="grid_1_of_4 images_1_of_4">
-										 <img src="images/mobile.png" alt="" />
+										 <img src="images/eval.png" alt="" />
 										 <h3>Evaluation Studies</h3>
 										 <p>We conduct mid term and end of project evaluation studies focused on analysing the social and economic impacts of agriculture research and development programs</p>
 									</div>
 									<div class="grid_1_of_4 images_1_of_4">
-										 <img src="images/security.png" alt="" />
+										 <img src="images/projects.png" alt="" />
 										  <h3>Integrating Gender in Projects and Programs</h3>
 										  <p>This is essential not only for achieving project goals but also for achieving gender equality. Our consultants work with you to ensure gender is integral in your programming</p>
 									</div>
 									<div class="grid_1_of_4 images_1_of_4">
-										 <img src="images/payment.png" alt="" />
+										 <img src="images/publishing.png" alt="" />
 										  <h3>Publishing and Information Sharing</h3>
 										  <p>ACGSRIA publishes the Journal of Gender, Agriculture and Food Security. For more information on the <a target="_blank" href="http://www.agrigender.net">journal</a> Visit our blog at www.agrigenderjournal.com</p>
 									</div>
@@ -215,12 +152,12 @@ Design : Kevin Barasa | kevin.barasa001@gmail.com
            			</div>
            			 
            	  <div class="dashborder_img" id="dashboard">
-                   <div class="wrap">                             	
-                 		  <h2>Powerful new <span>dashboard</span></h2>
-                 		    <h4>Track and manage your budiness from anywhere</h4>
-                 		      <img src="images/dashboard.jpg" alt="" />  
-						</div>
-           			</div>
+               <div class="wrap">                             	
+             		  <h2>Powerful new <span>dashboard</span></h2>
+             		    <h4>Track and manage your budiness from anywhere</h4>
+             		      <img src="images/dashboard.jpg" alt="" />  
+			   </div>
+       		  </div>
                        
           <div class="content_bottom" id="customers">
               <div class="wrap">            
@@ -261,69 +198,5 @@ Design : Kevin Barasa | kevin.barasa001@gmail.com
        			</div>
      		</div>
   		 </div>	
-   <div class="footer">
-   	 <div class="wrap">
-   	 <div class="section group example">
-				<div class="col_1_of_4 span_1_of_4 list">
-				   <h3>Overview</h3>
-				   <ul>
-				   	<li><a href="#">About Us</a></li>
-				   	<li><a href="#">Features</a></li>
-				   	<li><a href="#">Pricing</a></li>
-				   	<li><a href="#">Examples</a></li>
-				   	<li><a href="#">Careers</a></li>
-				   	<li><a href="#">Privacy Policy</a></li>
-				   	<li><a href="#">Terms of services</a></li>				   
-				   </ul>				   
- 				</div>
- 				<div class="col_1_of_4 span_1_of_4 list">
-				   <h3>Support</h3>
-				   <ul>
-				   	<li><a href="#">Support Portal</a></li>
-				   	<li><a href="#">Community Forum</a></li>
-				   	<li><a href="#">Tutorials</a></li>
-				   	<li><a href="#">Online Seminars</a></li>
-				   	<li><a href="#">Extensions</a></li>
-				   	<li><a href="#">API</a></li>				   
-				   </ul>				   
- 				</div>
-				<div class="col_1_of_4 span_1_of_4 list">
-				   <h3>Partners</h3>
-				   <ul>
-				   	<li><a href="#">Paypal</a></li>
-				   	<li><a href="#">Visa</a></li>
-				   	<li><a href="#">Mastercard</a></li>
-				   	<li><a href="#">Amex</a></li>
-				   	<li><a href="#">Royal Bank</a></li>				   
-				   </ul>				   
- 				</div>
-				<div class="col_1_of_4 span_1_of_4 list">
-				   <h3>Contact Us</h3>
-				   <ul>
-				   	<li><a href="#">1-888-125-0328</a></li>
-				   	<li><a href="#">Cantact@ascend.com</a></li>				   
-				   </ul>	
-				        <div class="social-icons">
-							<h3>Stay in touch</h3>
-					   		  <ul>
-							      <li><a href="#" target="_blank"> <img src="images/facebook.png" alt="" /> Facebook</a></li>
-							      <li class="twitter"><a href="#" target="_blank"> <img src="images/twitter.png" alt="" /> Twitter</a></li>
-							      <!-- <li class="googleplus"><a href="#" target="_blank"><img src="images/googleplus.png" alt="" />  Google+</a></li>
-							      <li class="pinterest"><a href="#" target="_blank"><img src="images/pinterest.png" alt="" /> Pinterest</a></li> -->
-							      <li class="likedin"><a href="#" target="_blank"><img src="images/likedin.png" alt="" /> Likedin</a></li>
-							      <div class="clear"></div>
-						     </ul>
-   	 					</div>			   
- 				</div>
-				<div class="clear"></div>
-		    </div>
-		  </div> 
-       </div> 
-		     <div class="copy_right">
-		     	<div class="wrap">
-				    <p>&copy; 2016 Africa Gender Center | Design by  <a href="ccoretechnologies.com" target="_blank"> Kevin/CloudCore Technoogies</a></p>
-		     	</div>
-		   	</div>		 		 
-	</body>
-</html>
-
+<!--Footer Partial-->	
+<?php include('partials/footer.php');?>
