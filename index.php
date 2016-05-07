@@ -59,9 +59,9 @@
 								  			 	<table width="100%" cellspacing="0" class="compare_plan">
 												<thead>
 								   					<tr>
-								        				<th class="plans-list"><h3>Plan Features</h3></th>
-								        				<th class="plans-list"><h3>Basic</h3><h4>$5<small>/month</small></h4></th>
-								        				<th class="plans-list"><h3>Economy</h3><h4>$9<small>/month</small></h4></th>
+								        				<th class="plans-list"><h3>Project Name</h3></th>
+								        				<th class="plans-list"><h3>Where</h3><h4><small>(Location : Nairobi, Kenya)</small></h4></th>
+								        				<th class="plans-list"><h3>Time</h3><h4><small>June - November</small></h4></th>
 								    				</tr>
 												</thead>
 													<tfoot>
@@ -82,41 +82,13 @@
 														<td class="price_body">Unlimited</td>
 										        		<td class="price_body">Unlimited</td>
 								    				</tr>
-								    				<tr>
-								        				<td class="plan_list_title">25 GB Storage</td>
-											    	    <td class="price_body"><img src="images/icon-remove.png" alt="img"></td>
-											        	<td class="price_body">Unlimited</td>
-													</tr>
-								    				<tr>
-											    	    <td class="plan_list_title">iPhone App</td>
-											        	<td class="price_body"><img src="images/icon-remove.png" alt="img"></td>
-												        <td class="price_body">Unlimited</td>
-								    				</tr>
-								    				<tr>
-								        				<td class="plan_list_title">Enhanced Security</td>
-									        			<td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
-												        <td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
-								    				</tr>
-									    			<tr>
-								    	    			<td class="plan_list_title">E-mail</td>
-								        				<td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
-												        <td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
-									    			</tr>
+								    		
 								    				<tr>
 								        				<td class="plan_list_title">Wordpress Support</td>
 												        <td class="price_body"><img src="images/icon-remove.png" alt="img"></td>
 											    	    <td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
 								    				</tr>
-								    				<tr>
-								        				<td class="plan_list_title">24/7 Support</td>
-								        				<td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
-											        	<td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
-								    				</tr>
-								    				<tr>
-								        				<td class="plan_list_title">Backups</td>
-												    	<td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
-												        <td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
-								    				</tr>
+								    		
 								    				<tr>
 								        				<td class="plan_list_title">Dedicated IP</td>
 												        <td class="price_body">$2/mo</td>
@@ -153,17 +125,144 @@
            			 
            	  <div class="dashborder_img" id="dashboard">
                <div class="wrap">                             	
-             		  <h2>Powerful new <span>dashboard</span></h2>
-             		    <h4>Track and manage your budiness from anywhere</h4>
+             		  <h2>Powerful new <span>findings</span></h2>
+             		    <h4>Comprehensive latest sex-disaggregated data and gender statistics</h4>
              		      <img src="images/dashboard.jpg" alt="" />  
 			   </div>
        		  </div>
-                       
+          <div class="content_bottom" id="customers">
+          <div class="wrap">
+          	 <h2>Readers <span>Digest</span></h2>
+                 		    <h4>Here is what our writers have mind</h4>
+          </div>
+          	  <div class="row">
+			    <div class="col s12 m6 l3">
+			    	 <div class="card small">
+					    <div class="card-image waves-effect waves-block waves-light">
+					      <img class="activator" src="images/gender-icon.jpg">
+					    </div>
+					    <div class="card-content">
+					      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+					      <p>Here is a brief description</p>
+					    </div>
+					    <div class="card-reveal">
+					      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+					      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+					    </div>
+					  </div>
+			    </div>
+			    <div class="col s12 m6 l3">
+			    	<div class="card small">
+					    <div class="card-image waves-effect waves-block waves-light">
+					      <img class="activator" src="images/gender-icon.jpg">
+					    </div>
+					    <div class="card-content">
+					      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+					      <p>Here is a brief description</p>
+					    </div>
+					    <div class="card-reveal">
+					      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+					      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+					    </div>
+					  </div>
+			    </div>
+			    <div class="col s12 m6 l3">
+			    	<div class="card small">
+					    <div class="card-image waves-effect waves-block waves-light">
+					      <img class="activator" src="images/gender-icon.jpg">
+					    </div>
+					    <div class="card-content">
+					      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+					      <p>Here is a brief description</p>
+					    </div>
+					    <div class="card-reveal">
+					      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+					      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+					    </div>
+					  </div>
+			    </div>
+			    <div class="col s12 m6 l3">
+			    	<div class="card small">
+					    <div class="card-image waves-effect waves-block waves-light">
+					      <img class="activator" src="images/gender-icon.jpg">
+					    </div>
+					    <div class="card-content">
+					      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+					      <p>Here is a brief description</p>
+					    </div>
+					    <div class="card-reveal">
+					      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+					      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+					    </div>
+					  </div>
+			    </div>
+			    <div class="col s12 m6 l3">
+			    	<div class="card small">
+					    <div class="card-image waves-effect waves-block waves-light">
+					      <img class="activator" src="images/gender-icon.jpg">
+					    </div>
+					    <div class="card-content">
+					      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+					      <p>Here is a brief description</p>
+					    </div>
+					    <div class="card-reveal">
+					      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+					      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+					    </div>
+					  </div>
+			    </div>
+			    <div class="col s12 m6 l3">
+			    	<div class="card small">
+					    <div class="card-image waves-effect waves-block waves-light">
+					      <img class="activator" src="images/gender-icon.jpg">
+					    </div>
+					    <div class="card-content">
+					      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+					      <p>Here is a brief description</p>
+					    </div>
+					    <div class="card-reveal">
+					      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+					      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+					    </div>
+					  </div>
+			    </div>
+			    <div class="col s12 m6 l3">
+			    	<div class="card small">
+					    <div class="card-image waves-effect waves-block waves-light">
+					      <img class="activator" src="images/gender-icon.jpg">
+					    </div>
+					    <div class="card-content">
+					      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+					      <p>Here is a brief description</p>
+					    </div>
+					    <div class="card-reveal">
+					      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+					      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+					    </div>
+					  </div>
+			    </div>
+			    <div class="col s12 m6 l3">
+			    	<div class="card small">
+					    <div class="card-image waves-effect waves-block waves-light">
+					      <img class="activator" src="images/gender-icon.jpg">
+					    </div>
+					    <div class="card-content">
+					      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+					      <p>Here is a brief description</p>
+					    </div>
+					    <div class="card-reveal">
+					      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+					      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+					    </div>
+					  </div>
+			    </div>
+			  </div>
+          </div>    
           <div class="content_bottom" id="customers">
               <div class="wrap">            
                  		  <h2>Highest Customer <span>Satisfaction</span></h2>
                  		    <h4>Our success is measured through the success of our customers.</h4>
-                 		        <div class="customers_grids">
+                 		        <!-- <div class="customers_grids">
 							       <div class="section group">
 									  <div class="grid_1_of_3 images_1_of_3">
 									  	 <div class="customer_desc">
@@ -193,7 +292,7 @@
 										    <h5>Professional Model</h5>
 									</div>
 								</div>
-					        </div>
+					        </div> -->
            			  </div>             
        			</div>
      		</div>

@@ -11,12 +11,18 @@ Design : Kevin Barasa | kevin.barasa001@gmail.com
 <title>Africa Centre for Gender, Social Research and Impact Assessment | Welcome</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/custom.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700,500,900' rel='stylesheet' type='text/css'>
 <script src="js/jquery.min.js" type="text/javascript"></script>
 <script src="js/script.js" type="text/javascript"></script>
 <script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
 <link href="css/magnific-popup.css" rel="stylesheet" type="text/css">
+<!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
 <!-- Add fancyBox main JS and CSS files -->
 	<script type="text/javascript" src="js/jquery.fancybox.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
