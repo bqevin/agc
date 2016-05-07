@@ -54,49 +54,50 @@
 					              <div class="button"><a class="popup-with-zoom-anim" href="#small-dialog">See all features <img src="images/arrow.png" alt="" /></a>
 					              	
 					              	<div id="small-dialog" class="mfp-hide">
-					                           	    <div class="plans_table">
-  			 	
-								  			 	<table width="100%" cellspacing="0" class="compare_plan">
-												<thead>
-								   					<tr>
-								        				<th class="plans-list"><h3>Project Name</h3></th>
-								        				<th class="plans-list"><h3>Where</h3><h4><small>(Location : Nairobi, Kenya)</small></h4></th>
-								        				<th class="plans-list"><h3>Time</h3><h4><small>June - November</small></h4></th>
-								    				</tr>
-												</thead>
-													<tfoot>
-									    			<tr>
-												        <td> </td>
-								        				<td class="order_now"><a href="#account" class="scroll"><button>Order Now</button></a></td>
-								        				<td class="order_now"><a href="#account" class="scroll"><button>Order Now</button></a></td>
-													</tr>
-													</tfoot>				
-								   				<tbody>
-								   					<tr>
-									        			<td class="plan_list_title">Web Space</td>
-												        <td class="price_body">Unlimited</td>
-												        <td class="price_body">Unlimited</td>
-									    			</tr>
-								    				<tr>
-								        				<td class="plan_list_title">Bandwidth</td>
-														<td class="price_body">Unlimited</td>
-										        		<td class="price_body">Unlimited</td>
-								    				</tr>
-								    		
-								    				<tr>
-								        				<td class="plan_list_title">Wordpress Support</td>
-												        <td class="price_body"><img src="images/icon-remove.png" alt="img"></td>
-											    	    <td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
-								    				</tr>
-								    		
-								    				<tr>
-								        				<td class="plan_list_title">Dedicated IP</td>
-												        <td class="price_body">$2/mo</td>
-												        <td class="price_body">$2/mo</td>
-								    				</tr>
-												</tbody></table>  			 	
-  											 </div>
-												</div>
+			                           <div class="plans_table">
+		 	
+							  			 	<table width="100%" cellspacing="0" class="compare_plan">
+											<thead>
+							   					<tr>
+							        				<th class="plans-list"><h3>Project Name</h3></th>
+							        				<th class="plans-list"><h3>Where</h3><h4><small>(Location : Nairobi, Kenya)</small></h4></th>
+							        				<th class="plans-list"><h3>Time</h3><h4><small>June - November</small></h4></th>
+							    				</tr>
+											</thead>
+												<tfoot>
+								    			<tr>
+											        <td> </td>
+							        				<td class="order_now"><a href="#account" class="scroll"><button>Order Now</button></a></td>
+							        				<td class="order_now"><a href="#account" class="scroll"><button>Order Now</button></a></td>
+												</tr>
+												</tfoot>				
+							   				<tbody>
+							   					<tr>
+								        			<td class="plan_list_title">Web Space</td>
+											        <td class="price_body">Unlimited</td>
+											        <td class="price_body">Unlimited</td>
+								    			</tr>
+							    				<tr>
+							        				<td class="plan_list_title">Bandwidth</td>
+													<td class="price_body">Unlimited</td>
+									        		<td class="price_body">Unlimited</td>
+							    				</tr>
+							    		
+							    				<tr>
+							        				<td class="plan_list_title">Wordpress Support</td>
+											        <td class="price_body"><img src="images/icon-remove.png" alt="img"></td>
+										    	    <td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
+							    				</tr>
+							    		
+							    				<tr>
+							        				<td class="plan_list_title">Dedicated IP</td>
+											        <td class="price_body">$2/mo</td>
+											        <td class="price_body">$2/mo</td>
+							    				</tr>
+											</tbody>
+											</table>  			 	
+										 </div>
+									</div>
 											   <script>
 													$(document).ready(function() {
 														$('.popup-with-zoom-anim').magnificPopup({
