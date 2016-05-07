@@ -13,8 +13,8 @@
             		<p>No spamming. We promise</p>
             		 <div class="sign_up">				  	
 					 <form>
-					  		<input style="padding: 3px 2px 1px;" type="text" value="E-mail address " onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail address';}"> 
-					 		<input type="submit" value="Sign Up" style="padding: 11px 20px;" >
+					  		<input type="text" value="E-mail address " onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail address';}"> 
+					 		<input type="submit" value="Sign Up">
 					  </form>
 				    </div>
                 </div>  

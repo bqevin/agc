@@ -252,7 +252,7 @@ input:focus {
 /*** main ****/
 .content_top{	
 	position:relative;
-	background: rgba(177, 220, 251, 0.48);
+	background: #ebebeb;
 	//background:#6CA12A
 }
 .banner_desc{

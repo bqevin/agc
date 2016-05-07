@@ -39,10 +39,9 @@ Design : Kevin Barasa | kevin.barasa001@gmail.com
 						    <ul>
 						    	<li><a href="#home" class="scroll">Home</a></li>
 								<li><a href="#features" class="scroll">What We Do</a></li>
+								<li><a class="popup-with-zoom-anim" href="#small-dialog">Active Projects</a></li>
 								<li><a href="#dashboard" class="scroll">Reports</a></li>
-								<li><a href="#customers" class="scroll">Readers Digest</a></li>		
-								<li><a href="contact-us.php">Get in Touch</a></li>
-								<!-- <li><a class="popup-with-zoom-anim" href="#small-dialog">Pop up</a></li>	 -->	    
+								<li><a href="#customers" class="scroll">Readers Digest</a></li>				    
 								<!-- <li class="login" >
 									<div id="loginContainer"><a href="#" id="loginButton"><span>Login</span></a>
 						                <div id="loginBox">                
