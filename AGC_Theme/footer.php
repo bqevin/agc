@@ -1,4 +1,10 @@
-   <div class="footer">
+   <script type="text/javascript">
+   	$(document).ready(function(){
+      $('.slider').slider({full_width: true});
+    });
+        
+   </script>   
+<div class="footer">
    	 <div class="wrap">
    	 <div class="section group example">
 				<div class="col_1_of_4 span_1_of_4 list">
@@ -16,7 +22,7 @@
 				<div class="col_1_of_4 span_1_of_4 list">
 				   <h3>Partners</h3>
 				   <ul>
-				   	<li><a href="#">Paypal</a></li>			   
+				   	<!--<li><a href="#">Paypal</a></li>-->			   
 				   </ul>				   
  				</div>
 				<div class="col_1_of_4 span_1_of_4 list">

@@ -17,19 +17,17 @@ Design : Kevin Barasa | kevin.barasa001@gmail.com
 <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700,500,900' rel='stylesheet' type='text/css'>
 <script src="js/jquery.min.js" type="text/javascript"></script>
 <script src="js/script.js" type="text/javascript"></script>
+<script src="js/materialize.js" type="text/javascript"></script>
 <script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
 <link href="css/magnific-popup.css" rel="stylesheet" type="text/css">
-<!-- Compiled and minified CSS -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
-  <!-- Compiled and minified JavaScript -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+<link href="css/materialize.css" rel="stylesheet" type="text/css">
 <!-- Add fancyBox main JS and CSS files -->
 	<script type="text/javascript" src="js/jquery.fancybox.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
 	<script type="text/javascript" src="js/jquery.fancybox-media.js"></script>	
 </head>
 <body>
-  <div class="header" id="home">
+  <div class="header" id="home" style="z-index:2000;">
   	  <div class="header_top">
 	   <div class="wrap">
 		 	     <div class="logo">
@@ -41,7 +39,7 @@ Design : Kevin Barasa | kevin.barasa001@gmail.com
 								<li><a href="#features" class="scroll">What We Do</a></li>
 								<li><a href="#dashboard" class="scroll">Reports</a></li>
 								<li><a href="#customers" class="scroll">Readers Digest</a></li>		
-								<li><a href="contact-us.php">Get in Touch</a></li>
+								<li><a href="#contact" class="scroll">Get in Touch</a></li>
 								<!-- <li><a class="popup-with-zoom-anim" href="#small-dialog">Pop up</a></li>	 -->	    
 								<!-- <li class="login" >
 									<div id="loginContainer"><a href="#" id="loginButton"><span>Login</span></a>

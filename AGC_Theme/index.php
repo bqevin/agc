@@ -4,30 +4,43 @@
      <div class="main">
 	 	<div class="content">	
 	 		 <div class="content_top">  
-	 		     <div class="wrap">                                  		
-            	   <div class="banner_desc">
-            		<h1>Africa <span>Gender</span> Center </h1>  
-            		<h3><i>Providing consultancy company on Gender, Social <br /> Research and Impact Assessment</i></h3>
-            		<a class="play_icon fancybox-media" href="#"><img src="<?php bloginfo('template_directory'); ?>/images/play-icon.png" alt="" /></a>
-            		<h3>Get our reasearches <span>inboxed</span>!</h3>
-            		<p>No spamming. We promise</p>
-            		 <div class="sign_up">				  	
-					 <form>
-					  		<input style="padding: 3px 2px 1px;" type="text" value="E-mail address " onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail address';}"> 
-					 		<input type="submit" value="Subscribe" style="padding: 11px 20px;" >
-					  </form>
-				    </div>
-                </div>  
-                     <div class="ipad">
-            		     <img src="<?php bloginfo('template_directory'); ?>/images/ipad.png" alt="" />
-            	     </div>
-             <div class="clear"></div>
-        </div>
-     </div>
+	 		     <div class="dashborder_img" id="home">
+		               <div class="wrap">                             	
+		             		  <!-- <h2>Powerful new <span>findings</span></h2>
+		             		    <h4>Comprehensive latest sex-disaggregated data and gender statistics</h4> -->
+		             		     <!--  <img src="images/dashboard.jpg" alt="" />  -->
+		             		     <div class="slider" style="z-index:0">
+								    <ul class="slides" style="background:#fff;">
+								      <li>
+								        <img src="<?php bloginfo('template_directory'); ?>/images/slider/1.png"> <!-- random image -->
+								        <div class="caption center-align">
+								        <!--  <h3 style="color:#068743!important">State of Health Research on Poverty</h3>
+								          <h5 class="light grey-text text-lighten-3" style="color:#666666!important">Countries where >=50% of respondents put lack of policymaker understanding as one of the top two ranked barriers</h5>
+								        </div> -->
+								      </li>
+								      <li>
+								        <img src="<?php bloginfo('template_directory'); ?>/images/slider/3.png"> <!-- random image -->
+								        <div class="caption center-align">
+								         <!--  <h3 style="color:#068743!important">State of Health Research on Poverty</h3>
+								          <h5 class="light grey-text text-lighten-3" style="color:#666666!important">Countries where >=50% of respondents put lack of policymaker understanding as one of the top two ranked barriers</h5> -->
+								        </div>
+								      </li>
+								      <li>
+								        <img src="<?php bloginfo('template_directory'); ?>/images/slider/4.png"> <!-- random image -->
+								        <div class="caption center-align">
+								          <!-- <h3 style="color:#068743!important">State of Health Research on Poverty</h3>
+								          <h5 class="light grey-text text-lighten-3" style="color:#666666!important">Countries where >=50% of respondents put lack of policymaker understanding as one of the top two ranked barriers</h5> -->
+								        </div>
+								      </li>
+								    </ul>
+								  </div> 
+					   </div>
+		       		  </div>
+     		</div>
            <div class="features" id="features">
                  <div class="wrap">                             	
                  		  <h2>What We Do at <span>Africa Gender Center</span></h2>
-                 		    <h4>find out of our core activities</h4>
+                 		    <h4>Our core activities</h4>
                  		        <div class="features_grids">
 							     <div class="section group">
 									<div class="grid_1_of_4 images_1_of_4">
@@ -133,7 +146,7 @@
           <div class="content_bottom" id="customers">
           <div class="wrap">
           	 <h2>Readers <span>Digest</span></h2>
-                 		    <h4>Here is what our writers have mind</h4>
+                 		    <h4>Here is what our writers have in mind</h4>
           </div>
           	  <div class="row">
           	  <?php query_posts('posts_per_page=8&cat=1'); /*1, 2*/
@@ -161,10 +174,29 @@
 			    <?php endwhile; ?> <?php wp_reset_query(); /*4*/ ?>
           </div>    
           <div class="content_bottom" id="customers">
-              <div class="wrap">            
+          <div class="wrap">                                  		
+            	   <div class="banner_desc">
+            		<h1>Africa <span>Gender</span> Center </h1>  
+            		<h3><em>Providing consultancy company on Gender, Social <br /> Research and Impact Assessment</em></h3>
+            		<a class="play_icon fancybox-media" href="#"><img src="<?php bloginfo('template_directory'); ?>/images/play-icon.png" alt="" /></a>
+            		<h3><span>Subscribe</span> for our reports &amp; updates!</h3>
+            		<p>No spamming. We promise</p>
+            		 <div class="sign_up">				  	
+					 <form>
+					  		<input style="padding: 3px 2px 1px;" type="text" value="E-mail address " onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail address';}"> 
+					 		<input type="submit" value="Subscribe" style="padding: 11px 20px;" >
+					  </form>
+				    </div>
+                </div>  
+                     <div class="ipad">
+            		     <img src="<?php bloginfo('template_directory'); ?>/images/ipad.png" alt="" />
+            	     </div>
+             <div class="clear"></div>
+        </div>
+             <!--  <div class="wrap">            
                  		  <h2>Highest Customer <span>Satisfaction</span></h2>
                  		    <h4>Our success is measured through the success of our customers.</h4>
-                 		        <!-- <div class="customers_grids">
+                 		        <div class="customers_grids">
 							       <div class="section group">
 									  <div class="grid_1_of_3 images_1_of_3">
 									  	 <div class="customer_desc">
@@ -194,8 +226,8 @@
 										    <h5>Professional Model</h5>
 									</div>
 								</div>
-					        </div> -->
-           			  </div>             
+					        </div>
+           			  </div>   -->           
        			</div>
      		</div>
   		 </div>	

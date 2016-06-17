@@ -1,3 +1,9 @@
+   <script type="text/javascript">
+   	$(document).ready(function(){
+      $('.slider').slider({full_width: true});
+    });
+        
+   </script>
    <div class="footer">
    	 <div class="wrap">
    	 <div class="section group example">

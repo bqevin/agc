@@ -1,10 +1,10 @@
 <!--Header Partial-->	
 <?php include('partials/header.php');?>
-<!--Body Partial-->	      	
+<!--Body Partial-->	      
      <div class="main">
 	 	<div class="content">	
 	 		 <div class="content_top">  
-	 		     <div class="wrap">                                  		
+	 		     <!-- <div class="wrap">                                  		
             	   <div class="banner_desc">
             		<h1>Africa <span>Gender</span> Center </h1>  
             		<h3>Consultancy company on Gender, Social <br /> Research and Impact Assessment</h3>
@@ -22,7 +22,39 @@
             		     <img src="images/ipad.png" alt="" />
             	     </div>
              <div class="clear"></div>
-        </div>
+        </div> -->
+         <div class="dashborder_img" id="home">
+               <div class="wrap">                             	
+             		  <!-- <h2>Powerful new <span>findings</span></h2>
+             		    <h4>Comprehensive latest sex-disaggregated data and gender statistics</h4> -->
+             		     <!--  <img src="images/dashboard.jpg" alt="" />  -->
+             		     <div class="slider" style="z-index:0">
+						    <ul class="slides" style="background:#fff;">
+						      <li>
+						        <img src="images/slider/1.png"> <!-- random image -->
+						        <div class="caption center-align">
+						        <!--  <h3 style="color:#068743!important">State of Health Research on Poverty</h3>
+						          <h5 class="light grey-text text-lighten-3" style="color:#666666!important">Countries where >=50% of respondents put lack of policymaker understanding as one of the top two ranked barriers</h5>
+						        </div> -->
+						      </li>
+						      <li>
+						        <img src="images/slider/3.png"> <!-- random image -->
+						        <div class="caption center-align">
+						         <!--  <h3 style="color:#068743!important">State of Health Research on Poverty</h3>
+						          <h5 class="light grey-text text-lighten-3" style="color:#666666!important">Countries where >=50% of respondents put lack of policymaker understanding as one of the top two ranked barriers</h5> -->
+						        </div>
+						      </li>
+						      <li>
+						        <img src="images/slider/4.png"> <!-- random image -->
+						        <div class="caption center-align">
+						          <!-- <h3 style="color:#068743!important">State of Health Research on Poverty</h3>
+						          <h5 class="light grey-text text-lighten-3" style="color:#666666!important">Countries where >=50% of respondents put lack of policymaker understanding as one of the top two ranked barriers</h5> -->
+						        </div>
+						      </li>
+						    </ul>
+						  </div> 
+			   </div>
+       		  </div>
      </div>
            <div class="features" id="features">
                  <div class="wrap">                             	
@@ -124,13 +156,13 @@
 						</div>
            			</div>
            			 
-           	  <div class="dashborder_img" id="dashboard">
-               <div class="wrap">                             	
-             		  <h2>Powerful new <span>findings</span></h2>
-             		    <h4>Comprehensive latest sex-disaggregated data and gender statistics</h4>
-             		      <img src="images/dashboard.jpg" alt="" />  
-			   </div>
-       		  </div>
+		  <div class="dashborder_img" id="dashboard">
+           <div class="wrap">                             	
+         		  <h2>Powerful new <span>findings</span></h2>
+         		    <h4>Comprehensive latest sex-disaggregated data and gender statistics</h4>
+         		      <img src="images/dashboard.jpg" alt="" />  
+		   </div>
+       	  </div>
           <div class="content_bottom" id="customers">
           <div class="wrap">
           	 <h2>Readers <span>Digest</span></h2>
@@ -258,12 +290,31 @@
 					  </div>
 			    </div>
 			  </div>
-          </div>    
-          <div class="content_bottom" id="customers">
+          </div>   
+          <div class="wrap" id="contact">                                  		
+            	   <div class="banner_desc">
+            		<h1>Africa <span>Gender</span> Center </h1>  
+            		<h3>Consultancy company on Gender, Social <br /> Research and Impact Assessment</h3>
+            		<a class="play_icon fancybox-media" href="#"><img src="images/play-icon.png" alt="" /></a>
+            		<h3>Get our reasearches <span>inboxed</span>!</h3>
+            		<p>No spamming. We promise</p>
+            		 <div class="sign_up">				  	
+					 <form>
+					  		<input style="padding: 3px 2px 1px;" type="text" value="E-mail address " onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail address';}"> 
+					 		<input type="submit" value="Sign Up" style="padding: 11px 20px;" >
+					  </form>
+				    </div>
+                </div>  
+                     <div class="ipad">
+            		     <img src="images/ipad.png" alt="" />
+            	     </div>
+             <div class="clear"></div>
+          </div> 
+          <!-- <div class="content_bottom" id="customers">
               <div class="wrap">            
                  		  <h2>Highest Customer <span>Satisfaction</span></h2>
                  		    <h4>Our success is measured through the success of our customers.</h4>
-                 		        <!-- <div class="customers_grids">
+                 		        <div class="customers_grids">
 							       <div class="section group">
 									  <div class="grid_1_of_3 images_1_of_3">
 									  	 <div class="customer_desc">
@@ -293,9 +344,9 @@
 										    <h5>Professional Model</h5>
 									</div>
 								</div>
-					        </div> -->
+					        </div>
            			  </div>             
-       			</div>
+       			</div> -->
      		</div>
   		 </div>	
 <!--Footer Partial-->	

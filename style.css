@@ -43,7 +43,7 @@ img{max-width:100%;}
  }
  .header_top{
 	padding:15px 0;
-	 border-bottom:2px solid #6CA12A;
+	 border-bottom:1px solid #6CA12A;
 	position: fixed;
 	z-index: 1;
 	width: 100%;
@@ -366,8 +366,8 @@ input:focus {
 }
 /**** Content top ****/
 .features{
-	background:#FFF;
-	padding:10em 0 6em 0;
+	background:rgba(177, 220, 251, 0.48);
+	padding:1em 0 6em 0;
 	text-align:center;
 }
 .features h2,.dashborder_img h2,.content_bottom h2{
@@ -482,7 +482,7 @@ input:focus {
 }
 /********** Customize dashboard *******/
 .dashborder_img{
-	padding:6em 0 4em 0;
+	padding:6em 0 0 0;
 	text-align:center;
 	background:#FAFAFA;
 	box-shadow:inset 0px 0px 10px #EBEBEB;
