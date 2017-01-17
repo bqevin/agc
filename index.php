@@ -1,30 +1,30 @@
-<!--Header Partial-->	
+<!--Header Partial-->
 <?php include('partials/header.php');?>
-<!--Body Partial-->	      
+<!--Body Partial-->
      <div class="main">
-	 	<div class="content">	
-	 		 <div class="content_top">  
-	 		     <!-- <div class="wrap">                                  		
+	 	<div class="content">
+	 		 <div class="content_top">
+	 		     <!-- <div class="wrap">
             	   <div class="banner_desc">
-            		<h1>Africa <span>Gender</span> Center </h1>  
+            		<h1>Africa <span>Gender</span> Center </h1>
             		<h3>Consultancy company on Gender, Social <br /> Research and Impact Assessment</h3>
             		<a class="play_icon fancybox-media" href="#"><img src="images/play-icon.png" alt="" /></a>
             		<h3>Get our reasearches <span>inboxed</span>!</h3>
             		<p>No spamming. We promise</p>
-            		 <div class="sign_up">				  	
+            		 <div class="sign_up">
 					 <form>
-					  		<input style="padding: 3px 2px 1px;" type="text" value="E-mail address " onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail address';}"> 
+					  		<input style="padding: 3px 2px 1px;" type="text" value="E-mail address " onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail address';}">
 					 		<input type="submit" value="Sign Up" style="padding: 11px 20px;" >
 					  </form>
 				    </div>
-                </div>  
+                </div>
                      <div class="ipad">
             		     <img src="images/ipad.png" alt="" />
             	     </div>
              <div class="clear"></div>
         </div> -->
          <div class="dashborder_img" id="home">
-               <div class="wrap">                             	
+               <div class="wrap">
              		  <!-- <h2>Powerful new <span>findings</span></h2>
              		    <h4>Comprehensive latest sex-disaggregated data and gender statistics</h4> -->
              		     <!--  <img src="images/dashboard.jpg" alt="" />  -->
@@ -52,12 +52,12 @@
 						        </div>
 						      </li>
 						    </ul>
-						  </div> 
+						  </div>
 			   </div>
        		  </div>
      </div>
            <div class="features" id="features">
-                 <div class="wrap">                             	
+                 <div class="wrap">
                  		  <h2>What We Do at <span>Africa Gender Center</span></h2>
                  		    <h4>find out of our core activities</h4>
                  		        <div class="features_grids">
@@ -84,10 +84,10 @@
 									</div>
 					              </div>
 					              <div class="button"><a class="popup-with-zoom-anim" href="#small-dialog">See all features <img src="images/arrow.png" alt="" /></a>
-					              	
+
 					              	<div id="small-dialog" class="mfp-hide">
 			                           <div class="plans_table">
-		 	
+
 							  			 	<table width="100%" cellspacing="0" class="compare_plan">
 											<thead>
 							   					<tr>
@@ -102,7 +102,7 @@
 							        				<td class="order_now"><a href="#account" class="scroll"><button>Order Now</button></a></td>
 							        				<td class="order_now"><a href="#account" class="scroll"><button>Order Now</button></a></td>
 												</tr>
-												</tfoot>				
+												</tfoot>
 							   				<tbody>
 							   					<tr>
 								        			<td class="plan_list_title">Web Space</td>
@@ -114,53 +114,53 @@
 													<td class="price_body">Unlimited</td>
 									        		<td class="price_body">Unlimited</td>
 							    				</tr>
-							    		
+
 							    				<tr>
 							        				<td class="plan_list_title">Wordpress Support</td>
 											        <td class="price_body"><img src="images/icon-remove.png" alt="img"></td>
 										    	    <td class="price_body"><img src="images/tickmark-icon.png" alt="img"></td>
 							    				</tr>
-							    		
+
 							    				<tr>
 							        				<td class="plan_list_title">Dedicated IP</td>
 											        <td class="price_body">$2/mo</td>
 											        <td class="price_body">$2/mo</td>
 							    				</tr>
 											</tbody>
-											</table>  			 	
+											</table>
 										 </div>
 									</div>
 											   <script>
 													$(document).ready(function() {
 														$('.popup-with-zoom-anim').magnificPopup({
 															type: 'inline',
-													
+
 															fixedContentPos: false,
 															fixedBgPos: true,
-													
+
 															overflowY: 'auto',
-													
+
 															closeBtnInside: true,
 															preloader: false,
-															
+
 															midClick: true,
 															removalDelay: 300,
 															mainClass: 'my-mfp-zoom-in'
 														});
-																					
+
 													});
 													</script>
-					              	
+
 					              </div>
 					        </div>
 						</div>
            			</div>
-           			 
+
 		  <div class="dashborder_img" id="dashboard">
-           <div class="wrap">                             	
+           <div class="wrap">
          		  <h2>Powerful new <span>findings</span></h2>
          		    <h4>Comprehensive latest sex-disaggregated data and gender statistics</h4>
-         		      <img src="images/dashboard.jpg" alt="" />  
+         		      <img src="images/dashboard.jpg" alt="" />
 		   </div>
        	  </div>
           <div class="content_bottom" id="customers">
@@ -290,37 +290,37 @@
 					  </div>
 			    </div>
 			  </div>
-          </div>   
-          <div class="wrap" id="contact">                                  		
+          </div>
+          <div class="wrap" id="contact">
             	   <div class="banner_desc">
-            		<h1>Africa <span>Gender</span> Center </h1>  
-            		<h3>Consultancy company on Gender, Social <br /> Research and Impact Assessment</h3>
+            		<h1>Africa <span>Gender</span> Center </h1>
+            		<h3>Consultancy services on Gender, Social <br /> Research and Impact Assessment</h3>
             		<a class="play_icon fancybox-media" href="#"><img src="images/play-icon.png" alt="" /></a>
             		<h3>Get our reasearches <span>inboxed</span>!</h3>
             		<p>No spamming. We promise</p>
-            		 <div class="sign_up">				  	
+            		 <div class="sign_up">
 					 <form>
-					  		<input style="padding: 3px 2px 1px;" type="text" value="E-mail address " onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail address';}"> 
+					  		<input style="padding: 3px 2px 1px;" type="text" value="E-mail address " onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail address';}">
 					 		<input type="submit" value="Sign Up" style="padding: 11px 20px;" >
 					  </form>
 				    </div>
-                </div>  
+                </div>
                      <div class="ipad">
             		     <img src="images/ipad.png" alt="" />
             	     </div>
              <div class="clear"></div>
-          </div> 
+          </div>
           <!-- <div class="content_bottom" id="customers">
-              <div class="wrap">            
+              <div class="wrap">
                  		  <h2>Highest Customer <span>Satisfaction</span></h2>
                  		    <h4>Our success is measured through the success of our customers.</h4>
                  		        <div class="customers_grids">
 							       <div class="section group">
 									  <div class="grid_1_of_3 images_1_of_3">
 									  	 <div class="customer_desc">
-									  	 	<span class="quotes up"> </span><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p><span class="quotes down"> </span> 
+									  	 	<span class="quotes up"> </span><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p><span class="quotes down"> </span>
 										   <span class="testimonial-arrow"> </span>
-										 </div> 
+										 </div>
 										  <img src="images/customer-img1.jpg" alt="" />
 										  <h3><a href="#">Uku Mason</a></h3>
 										  <h5>Marketing Expert</h5>
@@ -329,7 +329,7 @@
 										<div class="customer_desc">
 									  	 	<span class="quotes up"> </span><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p><span class="quotes down"> </span>
 										  <span class="testimonial-arrow"> </span>
-										 </div> 
+										 </div>
 										    <img src="images/customer-img2.jpg" alt="" />
 										    <h3><a href="#">Ro Kanth</a></h3>
 										  <h5>Photographer</h5>
@@ -338,16 +338,16 @@
 										 <div class="customer_desc">
 									  	 	<span class="quotes up"> </span><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p><span class="quotes down"> </span>
 										    <span class="testimonial-arrow"> </span>
-										 </div> 
+										 </div>
 										    <img src="images/customer-img3.jpg" alt="" />
 										    <h3><a href="#">Anna Alexander</a></h3>
 										    <h5>Professional Model</h5>
 									</div>
 								</div>
 					        </div>
-           			  </div>             
+           			  </div>
        			</div> -->
      		</div>
-  		 </div>	
-<!--Footer Partial-->	
+  		 </div>
+<!--Footer Partial-->
 <?php include('partials/footer.php');?>

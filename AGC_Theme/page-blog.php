@@ -1,10 +1,10 @@
 <?php 
+add_theme_support( 'post-thumbnails' );
 /*
 	Template Name: Africa Gender Center BlogPosts Display
 */
 ?>
 <?php get_header(); ?>
-
 	<article>
 
 		<?php // Display blog posts on any page @ http://m0n.co/l

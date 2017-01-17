@@ -161,7 +161,7 @@
 							<p>136 312 Followers</p>
 						</li>
 						<li>
-							<a href="#" class="btn btn-blue"><i class="fa fa-facebook"></i> Facebook</a>
+							<a href="http://facebook.com/agrigender" target="_blank" class="btn btn-blue"><i class="fa fa-facebook"></i> Facebook</a>
 							<p>218 092 Subscribers</p>
 						</li>
 					</ul>
