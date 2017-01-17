@@ -138,8 +138,8 @@
            			 
            	  <div class="dashborder_img" id="dashboard">
                <div class="wrap">                             	
-             		  <h2>Powerful new <span>findings</span></h2>
-             		    <h4>Comprehensive latest sex-disaggregated data and gender statistics</h4>
+             		  <h2>Training <span>opportunity</span></h2>
+             		    <h4>Ready to develop a deep understanding of key gender and intra-household analytical concepts and methods? Fill form <a href="http://agrigender.net/uploads/gender_application_form.pdf">here</a></h4>
              		      <image src="<?php bloginfo('template_directory'); ?>/images/dashboard.jpg" alt="" />  
 			   </div>
        		  </div>
